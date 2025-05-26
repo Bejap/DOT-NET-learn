@@ -1,0 +1,14 @@
+c:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.AssemblyInfoInputs.cache
+c:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.AssemblyInfo.cs
+c:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\bin\Debug\net9.0\HelloDotNet.exe
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\bin\Debug\net9.0\HelloDotNet.deps.json
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\bin\Debug\net9.0\HelloDotNet.runtimeconfig.json
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\bin\Debug\net9.0\HelloDotNet.dll
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\bin\Debug\net9.0\HelloDotNet.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.dll
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\refint\HelloDotNet.dll
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\HelloDotNet.genruntimeconfig.cache
+C:\Users\63814\Downloads\DOT-NET-learn\HelloDotNet\obj\Debug\net9.0\ref\HelloDotNet.dll

@@ -1,0 +1,20 @@
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+csharp_style_prefer_top_level_statements = false
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+csharp_style_prefer_top_level_statements = true
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+csharp_style_prefer_top_level_statements = false
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+dotnet_diagnostic.IDE0210.severity = none
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+csharp_style_prefer_top_level_statements = true
