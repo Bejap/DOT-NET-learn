@@ -1,0 +1,15 @@
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\bin\Debug\net9.0\MitProjekt.exe
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\bin\Debug\net9.0\MitProjekt.deps.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\bin\Debug\net9.0\MitProjekt.runtimeconfig.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\bin\Debug\net9.0\MitProjekt.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\bin\Debug\net9.0\MitProjekt.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.AssemblyInfoInputs.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.AssemblyInfo.cs
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.csproj.CoreCompileInputs.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.sourcelink.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\refint\MitProjekt.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\MitProjekt.genruntimeconfig.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\obj\Debug\net9.0\ref\MitProjekt.dll
