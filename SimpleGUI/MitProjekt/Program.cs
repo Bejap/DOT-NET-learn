@@ -1,4 +1,5 @@
 ﻿using System.Net.Security;
+using System.Runtime.Intrinsics.X86;
 
 namespace MyFirstConsoleProject
 {
@@ -53,7 +54,16 @@ namespace MyFirstConsoleProject
             int.TryParse(userHobbyAge, out int hobbyage);
             NavnOgHobby(userName, age, userHobby, hobbyage); */
 
-            
+            /* Console.Write("Indtast din skostørrelse: ");
+            int.TryParse(Console.ReadLine(), out int sko);
+            if (sko > 45)
+                Console.WriteLine("Store plader");
+            else if (sko <= 45 && sko >= 38)
+                Console.WriteLine("Gennemsnitlige fødder");
+            else
+                Console.WriteLine("Små fødder"); */
+
+            BMI();
         }
         static void Hello()
         {
@@ -74,6 +84,31 @@ namespace MyFirstConsoleProject
         {
             Console.WriteLine($"Hej {name}, din hobby er {hobby}. Du begyndte at dyrke");
             Console.WriteLine($"{hobby} i {2025 - hobbyAge} i en alder af {age - hobbyAge} år");
+        }
+
+        static void BMI()
+        {
+            Console.Write("Indatst din højde: ");
+            int.TryParse(Console.ReadLine(), out int height);
+            Console.Write("Indatst din vægt: ");
+            int.TryParse(Console.ReadLine(), out int weight);
+            Console.Write("Indtast dit køn M/K ");
+            string gender = Console.ReadLine();
+            if (gender == "M")
+                gender = "mand";
+            else
+                gender = "kvinde";
+            int bodyMassIndex = weight / (height * height);
+
+            Console.WriteLine($"BMI: {bodyMassIndex}");
+            if (bodyMassIndex < 18.5)
+                Console.WriteLine($"Undervægtig {gender}");
+            else if (bodyMassIndex <= 18.5 && bodyMassIndex <= 25)
+                Console.WriteLine($"normalvægtig {gender}");
+            else if (bodyMassIndex > 25 && bodyMassIndex >= 30)
+                Console.WriteLine($"overvægtig {gender}");
+            else
+                Console.WriteLine($"svært overvægtig {gender}");
         }
     }
 }
