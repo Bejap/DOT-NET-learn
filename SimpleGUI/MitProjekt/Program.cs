@@ -63,7 +63,17 @@ namespace MyFirstConsoleProject
             else
                 Console.WriteLine("Små fødder"); */
 
-            BMI();
+            /* BMI(); */
+
+            Miner minerMartin = new Miner("Martin");
+            while (minerMartin.Dead() == false && minerMartin.RoundNumber < 1000)
+                minerMartin.PerformRound();
+            Console.Write($"Gold {minerMartin.Gold}");
+            Console.Write($"Whisky {minerMartin.Whisky}");
+            Console.Write($"Sleepiness {minerMartin.Sleepiness}");
+            Console.Write($"Thirst {minerMartin.Thirst}");
+            Console.Write($"Hunger {minerMartin.Hunger}");
+            Console.Write($"RoundNumber {minerMartin.RoundNumber}");
         }
         static void Hello()
         {
@@ -109,6 +119,11 @@ namespace MyFirstConsoleProject
                 Console.WriteLine($"overvægtig {gender}");
             else
                 Console.WriteLine($"svært overvægtig {gender}");
+        }
+
+        static void Miner()
+        {
+
         }
     }
 }
