@@ -50,16 +50,6 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[33.0.1, )"
-            },
-            "ScottPlot.WinForms": {
-              "target": "Package",
-              "version": "[5.0.55, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
