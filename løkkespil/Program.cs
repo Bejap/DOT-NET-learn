@@ -182,11 +182,14 @@ namespace WhoLikesCounting
 
             while (sumArray.Max() <= 100)
             {
-                for (int player = 0; player < numPlayers; player++)   
-                    {
+                for (int player = 0; player < numPlayers; player++)
+                {
                     int valueFromDie;
                     int sum = 0;
                     Console.WriteLine($"{playerNames[player]}'s turn");
+                    Console.WriteLine("Current scores:");
+                    for (int j = 0; j < numPlayers; j++)
+                        Console.WriteLine($"{playerNames[j]}: {sumArray[j]}");
                     Console.Write("Would you like to roll the die(y/n)? ");
                     string roll = Console.ReadLine();
                     while (roll != "n")
@@ -201,9 +204,6 @@ namespace WhoLikesCounting
                     if (roll == "n")
                         sumArray[player] += sum;
                 }
-                Console.WriteLine("Current scores:");
-                for (int j = 0; j < numPlayers; j++)
-                    Console.WriteLine($"{playerNames[j]}: {sumArray[j]}");
             }
             Console.WriteLine("Final scores:");
             for (int j = 0; j < numPlayers; j++)
@@ -220,6 +220,11 @@ namespace WhoLikesCounting
                 return 0;
             }
             return dieValue;
+        }
+
+        static void TellScores()
+        {
+
         }
     }
 }
