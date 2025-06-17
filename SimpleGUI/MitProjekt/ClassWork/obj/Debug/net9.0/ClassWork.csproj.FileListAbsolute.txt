@@ -1,0 +1,15 @@
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\bin\Debug\net9.0\ClassWork.exe
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\bin\Debug\net9.0\ClassWork.deps.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\bin\Debug\net9.0\ClassWork.runtimeconfig.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\bin\Debug\net9.0\ClassWork.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\bin\Debug\net9.0\ClassWork.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.AssemblyInfo.cs
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.sourcelink.json
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\refint\ClassWork.dll
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.pdb
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ClassWork.genruntimeconfig.cache
+C:\Users\63814\Downloads\DOT-NET-learn\SimpleGUI\MitProjekt\ClassWork\obj\Debug\net9.0\ref\ClassWork.dll
