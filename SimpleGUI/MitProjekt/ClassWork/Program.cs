@@ -25,12 +25,24 @@ class Program
                     Console.WriteLine("Invalid name. Please try again.");
                 }
             }
-            while (players.Max(p => p.score) <= 100)
+            while (players.Max(p => p.Score) <= 100)
             {
                 foreach (Player player in players)
                 {
                     player.Play();
                     Console.WriteLine(player.ToString());
+                    if (player.Score == 0)
+                    {
+                        player.Score = 20;
+                        /* Console.Write("Do you want to change the name (give nonzero character)? ");
+                        string changeName = Console.ReadLine();
+                        if (!string.IsNullOrWhiteSpace(changeName))
+                        {
+                            Console.Write("Write new name: ");
+                            string name = Console.ReadLine();
+                            player.Name = name;
+                        } */
+                    }
                 }  
             }
         }

@@ -2,8 +2,33 @@ namespace ClassWork_C_Sharp
 {
     class Player
     {
-        public string name;
-        public int score;
+        private string name;
+
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name = value;
+            }
+        }
+
+        private int score;
+
+        public int Score
+        {
+            get
+            {
+                return score;
+            }
+            set
+            {            
+                
+            }
+        }
 
         public Player(string name, int score)
         {
